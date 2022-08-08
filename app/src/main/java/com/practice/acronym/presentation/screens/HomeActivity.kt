@@ -6,7 +6,11 @@ import com.practice.acronym.R
 import com.practice.acronym.databinding.ActivityHomeBinding
 import com.practice.acronym.presentation.screens.acronym.AcronymFragment
 
-class DashboardActivity : AppCompatActivity() {
+/*
+ * Author: Rajkumar Srinivasan
+ * Date: 06-Aug-2022
+ */
+class HomeActivity : AppCompatActivity() {
     lateinit var homeBinding: ActivityHomeBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {

@@ -10,6 +10,10 @@ import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.launch
 
+/*
+ * Author: Rajkumar Srinivasan
+ * Date: 06-Aug-2022
+ */
 inline fun <T> Flow<T>.launchAndCollectIn(
     owner: LifecycleOwner,
     minState: Lifecycle.State = Lifecycle.State.STARTED,

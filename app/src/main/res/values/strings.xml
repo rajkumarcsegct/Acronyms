@@ -1,8 +1,9 @@
 <resources>
     <string name="app_name">Acromine</string>
     <string name="input_acronym">Enter acronym text here</string>
-    <string name="splash_title">Acromine Acronym</string>
+    <string name="splash_title">Acronym</string>
     <string name="no_data">No Data Available</string>
     <string name="err_admin">Something went wrong.. Please contact the admin</string>
     <string name="search_acronym">Search your acronym here</string>
+    <string name="please_enter_acronym">Please enter the acronym</string>
 </resources>
